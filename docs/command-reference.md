@@ -137,7 +137,7 @@ This reference documents every built-in command recognized by the in-game comman
 | `@pbreak` | `do_pstats` | `src/game.c:1543` |
 | `@pcreate` | `do_pcreate` | `src/game.c:1548` |
 | `@pemit` | `do_general_emit` | `src/game.c:1553` |
-| `@Poor` | `do_poor` | `src/game.c:1569` |
+| `@poor` | `do_poor` | `src/game.c:1569` |
 | `@powers` | `do_powers` | `src/game.c:1578` |
 | `@ps` | `do_queue` | `src/game.c:1587` |
 | `@purge` | `do_purge` | `src/game.c:1592` |
