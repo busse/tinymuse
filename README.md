@@ -35,6 +35,7 @@ Comprehensive documentation for the TinyMUSE codebase:
 - **[Software Architecture](docs/software-architecture.md)** - Overview of system design and components
 - **[Server Architecture](docs/server-architecture.md)** - Technical implementation details  
 - **[Features](docs/features.md)** - Complete list of application features
+- **[Command Reference](docs/command-reference.md)** - Full in-game command reference from source code
 - **[Modernization Opportunities](docs/potential-issues.md)** - Areas for improvement and modernization
 
 ## Server Administration
@@ -60,4 +61,3 @@ Any new code or separate code in version 2.0+ falls under the MIT license.
 ![MIT License](https://belisariussmith.com/external/mitlicense.png)
 
 —
-
